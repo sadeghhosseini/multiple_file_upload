@@ -1,0 +1,22 @@
+{
+  "name": "multiple_file_upload",
+  "description": "JS file uploader component",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "3.2.1",
+    "bootstrap": "3.3.7",
+    "lightbox2": "2.9.0"
+  },
+  "resolutions": {
+    "jquery": "3.2.1"
+  }
+}

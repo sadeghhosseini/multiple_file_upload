@@ -1,0 +1,16 @@
+.each-image-container {
+	position: relative;
+	display: inline-block;
+}
+
+.sadegh-close-preview {
+	position: absolute;
+	top: 0;
+	right:0;
+/* 	background-color: white; */
+}
+
+.sadegh-close-preview:hover {
+	color: red;
+	cursor: pointer;
+}
